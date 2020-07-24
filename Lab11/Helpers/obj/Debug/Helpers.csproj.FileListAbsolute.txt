@@ -1,0 +1,22 @@
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\bin\Debug\Helpers.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\bin\Debug\Helpers.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\Helpers.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\Lab11\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab11\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\Lab11\Helpers\obj\Debug\Helpers.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\obj\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\Helpers.dll.config
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\EntityFramework.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\EntityFramework.SqlServer.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\System.Data.SQLite.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\System.Data.SQLite.EF6.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\System.Data.SQLite.Linq.dll
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\EntityFramework.xml
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\EntityFramework.SqlServer.xml
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\System.Data.SQLite.xml
+D:\лабы\2 sem\oop\Lab11\Helpers\bin\Debug\System.Data.SQLite.dll.config
+D:\лабы\2 sem\oop\Lab11\Helpers\obj\Debug\Helpers.csproj.CopyComplete

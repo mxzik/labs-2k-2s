@@ -1,0 +1,66 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    
+    <v:String x:Key="AdditionalFunc">Доп функции</v:String>
+    <v:String x:Key="Doneundone">Пометить выполненым</v:String>
+    <v:String x:Key="menuLanguage">Язык</v:String>
+    
+    <v:String x:Key="AddButton">Добавить</v:String>
+    <v:String x:Key="EditButton">Изменить</v:String>
+    <v:String x:Key="DeleteButton">Удалить</v:String>
+    
+    <v:String x:Key="ShowAll">Показать все</v:String>
+    <v:String x:Key="SaveAll">Сохраниь</v:String>  
+    <v:String x:Key="LoadAll">Загрузить</v:String>
+
+    <v:String x:Key="startTime">Начало задачи</v:String>
+    <v:String x:Key="endTime">Конец задачи</v:String>
+    <v:String x:Key="name">Имя</v:String>
+    <v:String x:Key="category">Категория</v:String>
+    <v:String x:Key="status">Статус</v:String>
+    <v:String x:Key="priority">Приоритет</v:String>
+    <v:String x:Key="description">Описание</v:String>
+
+    <v:String x:Key="GBName">Имя</v:String>
+    <v:String x:Key="GBStartDate">Начало</v:String>
+    <v:String x:Key="GBEndDate">Конец</v:String>
+    
+    <v:String x:Key="GBPeriod">Периодичность</v:String>
+    <v:String x:Key="Single">Однократная</v:String>
+    <v:String x:Key="EveryWeek">Еженедельная</v:String>
+    <v:String x:Key="EveryMonth">Ежемесячная</v:String>
+    <v:String x:Key="EveryYear">Ежегодная</v:String>
+
+    <v:String x:Key="GBStatus">Приоритет</v:String>
+    <v:String x:Key="Low">Низкий</v:String>
+    <v:String x:Key="Middle">Средний</v:String>
+    <v:String x:Key="High">Высокий</v:String>
+
+    <v:String x:Key="GBAbout">Описание</v:String>
+
+    <v:String x:Key="GBCategory">Категория</v:String>
+    <v:String x:Key="Home">Дом</v:String>
+    <v:String x:Key="Work">Работа</v:String>
+    <v:String x:Key="Study">Учеба</v:String>
+    <v:String x:Key="Cources">Курсы</v:String>
+    <v:String x:Key="Family">Семья</v:String>
+    <v:String x:Key="Rest">Отдых</v:String>
+
+    <v:String x:Key="DoneCategory">Сделано</v:String>
+    <v:String x:Key="Done">Выполнено</v:String>
+    <v:String x:Key="Undone">Не выполнено</v:String>
+
+    <v:String x:Key="ByName">По имени</v:String>
+
+    <v:String x:Key="SearchButton">Поиск</v:String>
+
+    <v:String x:Key="Title_AddWindow">Добавление задачи</v:String>
+    <v:String x:Key="Title_AdditionalFunc">Доп функции</v:String>
+
+
+    
+
+
+
+</ResourceDictionary>

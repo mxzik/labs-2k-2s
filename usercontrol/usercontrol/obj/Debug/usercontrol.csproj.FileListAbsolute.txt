@@ -1,0 +1,13 @@
+D:\лабы\2 sem\oop\usercontrol\usercontrol\bin\Debug\usercontrol.dll
+D:\лабы\2 sem\oop\usercontrol\usercontrol\bin\Debug\usercontrol.pdb
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\UserControl1.g.cs
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol_MarkupCompile.cache
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol_MarkupCompile.lref
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\UserControl1.baml
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.g.resources
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.Properties.Resources.resources
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.csproj.GenerateResource.cache
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.dll
+D:\лабы\2 sem\oop\usercontrol\usercontrol\obj\Debug\usercontrol.pdb

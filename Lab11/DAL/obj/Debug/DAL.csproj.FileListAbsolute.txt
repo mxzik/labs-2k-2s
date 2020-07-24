@@ -1,0 +1,33 @@
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\DAL.dll.config
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\DAL.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\DAL.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\EntityFramework.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\System.Data.SQLite.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\EntityFramework.xml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\System.Data.SQLite.xml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\obj\Debug\DAL.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\obj\Debug\DAL.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\bin\Debug\Database\Teachers.db
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\Database\Teachers.db
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\DAL.dll.config
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\DAL.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\DAL.pdb
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\EntityFramework.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\System.Data.SQLite.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\System.Data.SQLite.EF6.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\System.Data.SQLite.Linq.dll
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\EntityFramework.xml
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\System.Data.SQLite.xml
+D:\лабы\2 sem\oop\Lab11\DAL\bin\Debug\System.Data.SQLite.dll.config
+D:\лабы\2 sem\oop\Lab11\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab11\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\Lab11\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\лабы\2 sem\oop\Lab11\DAL\obj\Debug\DAL.dll
+D:\лабы\2 sem\oop\Lab11\DAL\obj\Debug\DAL.pdb

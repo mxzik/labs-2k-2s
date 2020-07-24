@@ -1,0 +1,89 @@
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\DAL.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Helpers.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\System.Data.SQLite.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\DAL.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Helpers.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\System.Data.SQLite.xml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Auxiliary\WindowAdd.g.cs
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\MainWindow.g.cs
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\App.g.cs
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.lref
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Auxiliary\WindowAdd.baml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\MainWindow.baml
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.g.resources
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.Cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Lab11\bin\Debug\Database\Teachers.db
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Database\Teachers.db
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\DAL.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Helpers.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\System.Data.SQLite.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\DAL.pdb
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\DAL.dll.config
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\System.Data.SQLite.xml
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\System.Data.SQLite.dll.config
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Auxiliary\WindowAdd.g.cs
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\MainWindow.g.cs
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\App.g.cs
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.cache
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.lref
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Auxiliary\WindowAdd.baml
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\MainWindow.baml
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.g.resources
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.csproj.CopyComplete
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\лабы\2 sem\oop\Lab11\Lab11\obj\Debug\Lab11.pdb
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\EntityFramework.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\Helpers.dll.config
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\EntityFramework.xml
+D:\лабы\2 sem\oop\Lab11\Lab11\bin\Debug\EntityFramework.SqlServer.xml

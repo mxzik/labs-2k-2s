@@ -1,0 +1,17 @@
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\bin\Debug\Helpers.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\bin\Debug\Helpers.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.dll
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab11\Helpers\obj\Debug\Helpers.pdb
+C:\Users\Сергей\Downloads\Lab11\Helpers\bin\Debug\Helpers.dll
+C:\Users\Сергей\Downloads\Lab11\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Сергей\Downloads\Lab11\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\Сергей\Downloads\Lab11\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Downloads\Lab11\Helpers\obj\Debug\Helpers.dll
+C:\Users\Сергей\Downloads\Lab11\Helpers\obj\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\bin\Debug\Helpers.dll
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\bin\Debug\Helpers.pdb
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\obj\Debug\Helpers.dll
+D:\лабы\2 sem\oop\metod\Lab11\Helpers\obj\Debug\Helpers.pdb

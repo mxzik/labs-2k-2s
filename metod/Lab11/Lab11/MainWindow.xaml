@@ -1,0 +1,89 @@
+﻿<Window x:Class="Lab11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab11"
+        xmlns:toolkit="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="CRUD Application" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Width" Value="60"/>
+            <Setter Property="Padding"
+                    Value="5,5,5,5"/>
+            <Setter Property="BorderThickness"
+                    Value="0.2"/>
+            <Setter Property="Background" 
+                    Value="AliceBlue"/>
+            <Setter Property="Foreground" 
+                    Value="Green"/>
+            <Setter Property="BorderBrush" 
+                    Value="Gray"/>
+            <Setter Property="FontStretch" 
+                    Value="UltraCondensed"/>
+            <Setter Property="HorizontalAlignment" 
+                    Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="Lavender">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="0.1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid AutoGenerateColumns="False"
+                  x:Name="DataGridInstance"
+                  ItemsSource="{Binding Path=Teachers}"
+                  RowEditEnding="DataGridInstance_RowEditEnding"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible"
+                  Background="Lavender"
+                  BorderThickness="0.1"
+                  Grid.Row="0"
+                  Grid.RowSpan="1"
+                  Grid.Column="0"
+                  Grid.ColumnSpan="12">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Teacher name" 
+                                    Binding="{Binding Path=TeacherName}" />
+                <DataGridTextColumn Header="Teacher age"
+                                    Binding="{Binding Path=TeacherAge}"/>
+                <DataGridTextColumn Header="Work experience"
+                                    Binding="{Binding Path=WorkExperience}"/>
+                <DataGridTemplateColumn Header="Photo" Width="SizeToCells" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Path=TeacherPhoto}"></Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Add"
+                Click="Add_Click"
+                Grid.Row="1"
+                Grid.Column="0"/>
+        <Button x:Name="RemoveButton"
+                Click="RemoveButton_Click"
+                Content="Remove"
+                Grid.Row="1"
+                Grid.Column="4"/>
+        <!--<toolkit:RichTextBox></toolkit:RichTextBox>-->
+    </Grid>
+</Window>

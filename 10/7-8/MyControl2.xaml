@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="_7_8.MyControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:_7_8"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <local:Depend Slider1="0" x:Key="Colo"/>
+    </UserControl.Resources>
+    <Grid DataContext="{StaticResource Colo}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox  Grid.Row="0" Grid.ColumnSpan="2"
+                Grid.Column="0" Padding="100,20,0,10" Name="Text" Text="{Binding Slider, Mode=TwoWay}"  BorderBrush="White"  TextChanged="TextBox_TextChanged"/>
+        <Slider Margin="20,40,0,0"
+            Grid.Row="0" Grid.ColumnSpan="2"
+                Grid.Column="0" Name="sliderRed" Minimum="0" Maximum="255" ValueChanged="ColorChanged"></Slider>
+        <Button Grid.Column="2" Grid.Row="0" Name="Rectt"/>
+
+        <StackPanel x:Name="Pondim" Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" MouseDown="Control_MouseDown">
+            <Button x:Name="button2" Width="80" Height="50" MouseDown="Control_MouseDown" Margin="20" Content="buble">
+               
+            </Button>
+        </StackPanel>
+        <TextBlock x:Name="textBlock1" Grid.Column="1" Padding="10" />
+        <StackPanel x:Name="tunnel" Grid.Column="8" Grid.Row="4" VerticalAlignment="Center" PreviewMouseDown="Control_MouseDown">
+            <Button x:Name="button1" Content="tunnel" Width="80" Height="50" PreviewMouseDown="Control_MouseDown" Margin="20" >
+            </Button>
+        </StackPanel>
+        <StackPanel x:Name="priam"  Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" MouseEnter="button_MouseEnter">
+            <Button x:Name="button0" Content="direct" Width="80" Height="50" MouseEnter="button_MouseEnter" Margin="20" >
+               
+            </Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

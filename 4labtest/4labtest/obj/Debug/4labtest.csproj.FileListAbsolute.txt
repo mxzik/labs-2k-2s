@@ -1,0 +1,6 @@
+D:\лабы\2 sem\oop\4labtest\4labtest\bin\Debug\4labtest.exe.config
+D:\лабы\2 sem\oop\4labtest\4labtest\bin\Debug\4labtest.exe
+D:\лабы\2 sem\oop\4labtest\4labtest\bin\Debug\4labtest.pdb
+D:\лабы\2 sem\oop\4labtest\4labtest\obj\Debug\4labtest.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\4labtest\4labtest\obj\Debug\4labtest.exe
+D:\лабы\2 sem\oop\4labtest\4labtest\obj\Debug\4labtest.pdb

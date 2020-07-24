@@ -1,0 +1,2 @@
+D:\лабы\2 sem\oop\usercontr\usercontr\obj\Debug\netcoreapp3.1\usercontr.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\usercontr\usercontr\obj\Debug\netcoreapp3.1\usercontr_MarkupCompile.cache

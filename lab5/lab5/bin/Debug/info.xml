@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Manager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <Discipl>
+      <name>oop</name>
+      <sem>1</sem>
+      <sem1>2</sem1>
+      <kurs>2</kurs>
+      <spec>ПОиБМС</spec>
+      <numoflec>42</numoflec>
+      <numoflab>16</numoflab>
+      <typeofcontrol>Экзамен</typeofcontrol>
+      <Lector>
+        <Cafedra>ИСИТ</Cafedra>
+        <FIO>пацей </FIO>
+        <POL>Женский</POL>
+        <Date>27 марта 2020 г.</Date>
+      </Lector>
+    </Discipl>
+  </list>
+</Manager>

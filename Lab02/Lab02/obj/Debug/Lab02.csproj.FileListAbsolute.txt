@@ -1,0 +1,12 @@
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\Учёба\2 курс\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.exe.config
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\bin\Debug\Lab02.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab02\Lab02\obj\Debug\Lab02.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.exe.config
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.exe
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.pdb
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.exe
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.pdb
+E:\Учёба\2 курс\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.exe.config
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.exe
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\bin\Debug\Lab04.pdb
+E:\Учёба\2 курс\2 semester\OOP2\Labs\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\лабы\2 sem\oop\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\лабы\2 sem\oop\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\лабы\2 sem\oop\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\лабы\2 sem\oop\Lab04\Lab04\obj\Debug\Lab04.pdb

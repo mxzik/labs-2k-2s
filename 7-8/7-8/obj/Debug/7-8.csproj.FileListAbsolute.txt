@@ -1,0 +1,60 @@
+D:\UNIVER\c#\7-8\7-8\bin\Debug\7-8.exe.config
+D:\UNIVER\c#\7-8\7-8\bin\Debug\7-8.exe
+D:\UNIVER\c#\7-8\7-8\bin\Debug\7-8.pdb
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8.csprojAssemblyReference.cache
+D:\UNIVER\c#\7-8\7-8\obj\Debug\MainWindow.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\App.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8_MarkupCompile.cache
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8_MarkupCompile.lref
+D:\UNIVER\c#\7-8\7-8\obj\Debug\MainWindow.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8.g.resources
+D:\UNIVER\c#\7-8\7-8\obj\Debug\_7_8.Properties.Resources.resources
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8.csproj.GenerateResource.cache
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8.exe
+D:\UNIVER\c#\7-8\7-8\obj\Debug\7-8.pdb
+D:\UNIVER\c#\7-8\7-8\obj\Debug\AddWindow.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\AddWindow.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\AdditionalFunc.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\AdditionalFunc.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\App.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\Resources\lang.en-EN.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\Resources\lang.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\Resources\dark.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\Resources\light.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\ControlWindow.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\MyControl.g.cs
+D:\UNIVER\c#\7-8\7-8\obj\Debug\ControlWindow.baml
+D:\UNIVER\c#\7-8\7-8\obj\Debug\MyControl.baml
+D:\лабы\2 sem\oop\7-8\7-8\bin\Debug\7-8.exe.config
+D:\лабы\2 sem\oop\7-8\7-8\bin\Debug\7-8.exe
+D:\лабы\2 sem\oop\7-8\7-8\bin\Debug\7-8.pdb
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\Resources\lang.en-EN.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\Resources\lang.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\AdditionalFunc.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\AddWindow.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\ControlWindow.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\MainWindow.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\MyControl.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\App.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8_MarkupCompile.cache
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8_MarkupCompile.lref
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\App.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\AdditionalFunc.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\AddWindow.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\ControlWindow.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\MainWindow.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\MyControl.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\Resources\dark.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\Resources\light.baml
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.g.resources
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\_7_8.Properties.Resources.resources
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.csproj.GenerateResource.cache
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.exe
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.pdb
+D:\лабы\2 sem\oop\7-8\7-8\bin\Debug\usercontrol.dll
+D:\лабы\2 sem\oop\7-8\7-8\bin\Debug\usercontrol.pdb
+D:\лабы\2 sem\oop\7-8\7-8\obj\Debug\7-8.csproj.CopyComplete

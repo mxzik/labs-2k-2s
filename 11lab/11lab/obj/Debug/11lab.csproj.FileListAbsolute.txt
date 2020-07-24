@@ -1,0 +1,15 @@
+D:\лабы\2 sem\oop\11lab\11lab\bin\Debug\11lab.exe.config
+D:\лабы\2 sem\oop\11lab\11lab\bin\Debug\11lab.exe
+D:\лабы\2 sem\oop\11lab\11lab\bin\Debug\11lab.pdb
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.csprojAssemblyReference.cache
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\MainWindow.g.cs
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\App.g.cs
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab_MarkupCompile.cache
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab_MarkupCompile.lref
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\MainWindow.baml
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.g.resources
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\_11lab.Properties.Resources.resources
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.csproj.GenerateResource.cache
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.csproj.CoreCompileInputs.cache
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.exe
+D:\лабы\2 sem\oop\11lab\11lab\obj\Debug\11lab.pdb

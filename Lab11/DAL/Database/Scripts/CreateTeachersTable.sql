@@ -1,0 +1,1 @@
+CREATE TABLE "Teachers" ( `TeacherId` INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE, `TeacherName` TEXT NOT NULL DEFAULT 'None', `WorkExperience` INTEGER NOT NULL DEFAULT 0 CHECK(WorkExperience >= 0), `TeacherAge` INTEGER CHECK(TeacherAge >= 18 AND TeacherAge <= 80 ), `TeacherPhoto` BLOB DEFAULT NULL );

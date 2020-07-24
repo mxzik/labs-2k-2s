@@ -1,0 +1,110 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7_8"
+        xmlns:entity="clr-namespace:_7_8.entity" x:Class="_7_8.AddWindow"
+        mc:Ignorable="d"
+        Title="{DynamicResource Title_AddWindow}" MinHeight="350" MinWidth="485" Height="350" Width="485">
+    <Window.Resources>
+        
+        <Style TargetType="RadioButton">
+            <Style.Setters>
+                <Setter Property="Foreground" Value="Black"></Setter>                
+            </Style.Setters>
+
+            <Style.Triggers>
+                <MultiTrigger>
+                    <MultiTrigger.Conditions>
+                        <Condition Property="IsChecked" Value="true"/>
+                        <Condition Property="IsMouseOver" Value="true"/>                        
+                    </MultiTrigger.Conditions>
+                    <MultiTrigger.Setters>
+                        <Setter Property="Foreground" Value="Red"></Setter>        
+                    </MultiTrigger.Setters>
+                </MultiTrigger>
+                <EventTrigger RoutedEvent="Checked">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="14" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="Unchecked">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="12" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+                
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="Button">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding ElementName=AboutTextBox, Path=Text}" Value="">
+                    <Setter Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding ElementName=NameTextBox, Path=Text}" Value="">
+                    <Setter Property="IsEnabled" Value="False"/>
+                </DataTrigger>
+            </Style.Triggers>        
+                            
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox x:Name="GBName" Header="{DynamicResource GBName}" HorizontalAlignment="Stretch" Height="auto" Margin="10" VerticalAlignment="Stretch" Width="auto">
+            <TextBox SpellCheck.IsEnabled="True" Language="ru-ru" x:Name="NameTextBox" HorizontalAlignment="Stretch" MinHeight="60" MinWidth="100" Height="auto" Margin="0" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" />
+        </GroupBox>
+        <GroupBox x:Name="GBStartDate" Header="{DynamicResource GBStartDate}" HorizontalAlignment="Stretch" Height="auto" Margin="10" Grid.Row="1" VerticalAlignment="Stretch" Width="auto">
+            <DatePicker x:Name="StartCalendar" SelectedDateFormat="Short" SelectedDateChanged="StartDate_choice" IsDropDownOpen="False" HorizontalAlignment="Stretch" Margin="10,9,10,10.8" VerticalAlignment="Stretch" Height="auto" Width="auto"/>
+        </GroupBox>
+        <GroupBox x:Name="GBEndDate" Header="{DynamicResource GBEndDate}" HorizontalAlignment="Stretch" Height="auto" Margin="10" Grid.Row="2" VerticalAlignment="Stretch" Width="auto">
+            <DatePicker x:Name="EndCalendar" SelectedDateFormat="Short" SelectedDateChanged="EndDate_choice" IsDropDownOpen="False" HorizontalAlignment="Stretch" Margin="10" VerticalAlignment="Stretch" Height="auto" Width="auto"/>
+        </GroupBox>
+        <GroupBox x:Name="GBPeriod" Header="{DynamicResource GBPeriod}" HorizontalAlignment="Stretch" Height="auto" Margin="10" Grid.Row="0" Grid.Column="1" VerticalAlignment="Stretch" Width="auto">
+            <StackPanel RadioButton.Checked ="Period_choice">
+                <RadioButton IsChecked="True" x:Name="Single" Content="{DynamicResource Single}" />
+                <RadioButton x:Name="EveryWeek" Content="{DynamicResource EveryWeek}"/>
+                <RadioButton x:Name="EveryMonth" Content="{DynamicResource EveryMonth}"/>
+                <RadioButton x:Name="EveryYear" Content="{DynamicResource EveryYear}"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="GBStatus" Header="{DynamicResource GBStatus}" HorizontalAlignment="Stretch" Height="auto" Margin="10" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" Width="auto">
+            <StackPanel RadioButton.Checked="Priority_choice">
+                <RadioButton x:Name="Low" Content="{DynamicResource Low}"/>
+                <RadioButton IsChecked="True" x:Name="Middle" Content="{DynamicResource Middle}"/>
+                <RadioButton x:Name="High" Content="{DynamicResource High}"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="GBAbout" Header="{DynamicResource GBAbout}" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="2" Height="auto" Margin="10" VerticalAlignment="Stretch" Width="auto">
+            <TextBox SpellCheck.IsEnabled="True" Language="ru-ru" x:Name="AboutTextBox" HorizontalAlignment="Stretch" MinHeight="60" MinWidth="100" Height="auto" Margin="0" TextWrapping="Wrap" VerticalAlignment="Stretch" Width="auto" />
+        </GroupBox>
+        <GroupBox x:Name="GBCategory" Header="{DynamicResource GBCategory}" HorizontalAlignment="Stretch" Grid.Column="2" Grid.Row="0" Grid.RowSpan="2" Height="auto" Margin="10" VerticalAlignment="Stretch" Width="auto">
+            <StackPanel RadioButton.Checked ="Category_choice">
+                <RadioButton IsChecked="True" x:Name="Home" MinHeight="20" Content="{DynamicResource Home}"/>
+                <RadioButton x:Name="Work" MinHeight="20" Content="{DynamicResource Work}"/>
+                <RadioButton x:Name="Study" MinHeight="20" Content="{DynamicResource Study}"/>
+                <RadioButton x:Name="Cources" MinHeight="20" Content="{DynamicResource Cources}"/>
+                <RadioButton x:Name="Family" MinHeight="20" Content="{DynamicResource Family}"/>
+                <RadioButton x:Name="Rest" MinHeight="20" Content="{DynamicResource Rest}"/>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="AddButton" Content="{DynamicResource AddButton}" Grid.Column="2" Margin="20" Grid.Row="2" Width="auto" Click="AddButton_Click"/>
+    </Grid>
+</Window>

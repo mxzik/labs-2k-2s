@@ -1,0 +1,1 @@
+Rectangle: Angles=4 Sides=44 Perimetr=176

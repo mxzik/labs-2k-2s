@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ArrayOfMyTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyTask>
+    <startTime>2020-05-21T14:34:26.4163015+03:00</startTime>
+    <endTime>2020-05-21T14:34:26.4163015+03:00</endTime>
+    <period>Single</period>
+    <priority>Middle</priority>
+    <name>Задача  1</name>
+    <description>Описание задачи 1</description>
+    <category>Home</category>
+    <status>Undone</status>
+  </MyTask>
+  <MyTask>
+    <startTime>2020-05-21T14:34:28.3492183+03:00</startTime>
+    <endTime>2020-05-21T14:34:28.3492183+03:00</endTime>
+    <period>Single</period>
+    <priority>Middle</priority>
+    <name>Задача  2</name>
+    <description>Описание задачи 2</description>
+    <category>Home</category>
+    <status>Undone</status>
+  </MyTask>
+  <MyTask>
+    <startTime>2020-05-21T14:34:29.3998355+03:00</startTime>
+    <endTime>2020-05-21T14:34:29.3998355+03:00</endTime>
+    <period>Single</period>
+    <priority>Middle</priority>
+    <name>Задача  3</name>
+    <description>Описание задачи 3</description>
+    <category>Home</category>
+    <status>Undone</status>
+  </MyTask>
+</ArrayOfMyTask>le</period>
+    <priority>Middle</priority>
+    <name>Задача  4</name>
+    <description>Описание задачи 4</description>
+    <category>Home</category>
+    <status>Undone</status>
+  </MyTask>
+</ArrayOfMyTask>
